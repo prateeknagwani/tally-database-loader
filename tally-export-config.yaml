@@ -409,7 +409,7 @@ transaction:
           type: amount
         - name: discount_amount
           field: Discount
-          type: number
+          type: amount
         - name: godown
           field: GodownName
           type: text
